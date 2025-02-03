@@ -1,6 +1,11 @@
 # 🚀 **OxygenOS Icon Pack for Realme UI - Magisk Module**  
 This Magisk module replaces the default Realme UI icon pack with the OxygenOS icon pack for a cleaner and more refined look.  
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5e83cf54-1e49-42b0-902e-07bcc155d87a">
+</p>
+
+
 
 ---
 ## 🔹 Features  
